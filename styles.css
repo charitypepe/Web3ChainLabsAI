@@ -20,6 +20,7 @@ button {
     font-size: 16px;
     cursor: pointer;
     border-radius: 5px;
+    margin: 10px;
 }
 
 section {
@@ -34,17 +35,4 @@ a {
     text-decoration: none;
     font-size: 18px;
     margin: 10px;
-}
-
-form input, form textarea {
-    width: 80%;
-    padding: 10px;
-    margin: 10px 0;
-    border: none;
-    border-radius: 5px;
-}
-
-footer {
-    padding: 10px;
-    background: #1e1e1e;
 }
